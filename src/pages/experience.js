@@ -66,8 +66,7 @@ const Experience = () => (
 						<div key={item.id}>
 							<p>
 								Graduated with a {item.degree}'s Degree majored
-								in {item.major} from {item.name} with a CGPA of{" "}
-								{item.cgpa} <br />
+								in {item.major} from {item.name}
 								{item.dated}
 							</p>
 						</div>
