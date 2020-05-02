@@ -15,7 +15,7 @@ const IndexPage = () => {
         Hello, I'm Dion Aditya welcome to my portfolio. I am a
         self taught front end developer based on Semarang, Indonesia
         </p>
-        <DownloadButton href="https://github.com/dionaditya/personal-website/blob/master/Dion%20new%20CV%20Front%20enD.pdf"  download title="Resume">Download Resume</DownloadButton>
+        <DownloadButton href="https://github.com/dionaditya/personal-website/raw/master/Dion%20new%20CV%20Front%20enD.pdf"  download title="Resume">Download Resume</DownloadButton>
       </div>
       <img src={UndrawIcon} alt="rashmi self" style={{
         marginTop: '-12em'
